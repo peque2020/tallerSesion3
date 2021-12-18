@@ -1,0 +1,20 @@
+runner/MyStepdefs.java
+ runner.MyStepdefs
+basicAppium/ContactManager.java
+ basicAppium.ContactManager
+basicAppium/BasicAppiumToDo.java
+ basicAppium.BasicAppiumToDo
+runner/Registro.java
+ runner.Registro
+basicAppium/ContactManagerSwipe.java
+ basicAppium.ContactManagerSwipe
+runner/MyStepMap.java
+ runner.MyStepMap
+basicAppium/BasicAppium.java
+ basicAppium.BasicAppium
+runner/MyStepObject.java
+ runner.MyStepObject
+basicJunit/BasicJunit.java
+ basicJunit.BasicJunit
+basicAppium/BasicAppiumXpath.java
+ basicAppium.BasicAppiumXpath
